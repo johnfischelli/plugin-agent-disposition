@@ -1,3 +1,5 @@
+## Disclaimer: This sample code is not production ready and is only intended as an example of how you might achieve updating disposition information before a Flex task completes. Please use as a starting point or idea of how to achieve something similar and test thoroughly before implementing in production.
+
 # Flex Agent Disposition + WFO
 
 ![Agent Disposition UI](https://indigo-bombay-5783.twil.io/assets/agent-disposition.png)
@@ -11,7 +13,7 @@ Make sure you have [Node.js](https://nodejs.org) as well as [`npm`](https://npmj
 Afterwards install the dependencies by running `npm install`:
 
 ```bash
-cd plugin-rbfcu-agent-disposition
+cd plugin-agent-disposition
 
 # If you use npm
 npm install
